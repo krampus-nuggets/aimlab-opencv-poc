@@ -30,4 +30,8 @@ This repository serves as a Proof-of-Concept for myself on working with OpenCV i
 
 ### Example
 
-https://res.cloudinary.com/wemakeart/video/upload/v1650071232/github-projects/aimlab-poc/Aimlab-Gridshot-FINAL-720p_gm4aj1.mp4
+
+
+https://user-images.githubusercontent.com/21266436/163657036-83e0e121-7307-41d3-a789-657fae3492a9.mp4
+
+
