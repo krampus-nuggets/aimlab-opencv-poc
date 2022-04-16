@@ -1,6 +1,5 @@
 import sys
 import time
-import win32api
 import keyboard
 import cv2 as cv
 import numpy as np
@@ -31,14 +30,6 @@ lower_bound = np.array([86, 138, 88])
 upper_bound = np.array([97, 244, 255])
 
 pos_range = {"x": [-1, 0, 1], "y": [9, 10, 11]}
-
-
-def left_click(x_coord, y_coord):
-    win32api.mouse_event(0x0001, int(x_coord), int(y_coord))
-
-
-def move_mouse(x_coord, y_coord):
-    win32api.SetCursorPos((x_coord, y_coord))
 
 
 def configure_aimlab():
