@@ -1,0 +1,11 @@
+# vscode
+.vscode
+
+# venv
+Include
+Lib
+Scripts
+pyvenv.cfg
+
+# python
+__pycache__
