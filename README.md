@@ -31,7 +31,5 @@ This repository serves as a Proof-of-Concept for myself on working with OpenCV i
 ### Example
 
 
-
-https://user-images.githubusercontent.com/21266436/163657036-83e0e121-7307-41d3-a789-657fae3492a9.mp4
-
+https://user-images.githubusercontent.com/21266436/163657123-6e1a7562-3b4e-4266-8083-8b5c70b7a7a3.mp4
 
