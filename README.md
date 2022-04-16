@@ -26,7 +26,7 @@ This repository serves as a Proof-of-Concept for myself on working with OpenCV i
 
 1. OpenCV Find Contours - [Link](https://docs.opencv.org/4.x/df/d0d/tutorial_find_contours.html)
 2. OpenCV inRange Thresholding - [Link](https://docs.opencv.org/3.4/da/d97/tutorial_threshold_inRange.html)
-3. Aimbot Math - [Link](https://www.unknowncheats.me/forum/counterstrike-global-offensive/137492-math-behind-hack-1-coding-better-aimbot-stop-using-calcangle.html)
+3. Aimbot Math - [Link](https://res.cloudinary.com/wemakeart/image/upload/v1650074126/github-projects/aimlab-poc/aimbot-math_mv0ogs.png)
 
 ### Example
 
